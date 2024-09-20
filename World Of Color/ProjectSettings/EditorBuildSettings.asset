@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Colors.unity
     guid: a6da97cc1d96a734da23164704ceed0e
+  - enabled: 1
+    path: Assets/Scenes/Over.unity
+    guid: 196c28bb6eca2c14c9efeba67a79b087
   m_configObjects: {}
